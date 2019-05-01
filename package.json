@@ -23,10 +23,9 @@
   },
   "homepage": "https://github.com/bazilio91/ejs-compiled-loader",
   "dependencies": {
-    "ejs": "^2.0.0",
+    "ejs": "~2.6.1",
     "html-minifier": "^3",
-    "loader-utils": "^0.2.7",
-    "merge": "^1.2.0",
+    "loader-utils": "~1.2.3",
     "uglify-js": "~2.6.1"
   },
   "devDependencies": {
